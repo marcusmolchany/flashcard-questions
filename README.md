@@ -1,5 +1,6 @@
 flashcard-questions
 =================
+[![Build Status](https://travis-ci.org/marcusmolchany/flashcard-questions.svg?branch=master)](https://travis-ci.org/marcusmolchany/flashcard-questions)
 
 Flashcards for computer science questions
 
