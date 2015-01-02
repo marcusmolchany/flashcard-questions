@@ -1,5 +1,14 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div.content
+    div.header
+      h1= title
+      p Welcome to #{title}
+    div.flashcard
+      button.btn.start start
+      p.question
+      p.answer
+    div.btn-wrapper
+      button.btn.next next
+      button.btn.flip answer

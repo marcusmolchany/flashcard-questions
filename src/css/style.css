@@ -1,8 +1,60 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
 }
 
-a {
-  color: #00B7FF;
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.flashcard {
+  height: 120px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  padding: 10px;
+
+  text-align: center;
+}
+
+.question {
+  font-weight: 600;
+}
+
+.answer {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
+
+.btn-wrapper {
+  text-align: center;
+}
+
+.btn {
+  height: 50px;
+  width: 100px;
+  margin: 10px;
+  border: 1px solid lightgray;
+  border-radius: 50px;
+  background-color: transparent;
+
+  cursor:pointer;
+  overflow: hidden;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.btn:active {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0, 0, 0, 0.1);
 }
