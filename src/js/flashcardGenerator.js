@@ -23,12 +23,4 @@ var flashcardGenerator = (function() {
       return flashcards.length > 0;
     }
   };
-})();;var main = function() {
-  console.log("jQuery running");
-  var flashcards = flashcardGenerator;
-  flashcards.getFlashcards();
-
-  console.log(flashcards);
-};
-
-$(document).ready(main);
+})();

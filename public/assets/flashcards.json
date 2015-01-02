@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+        "question": "How many daily active Facebook users are there?",
+        "answer": "864 million daily active users on average for September 2014"
+    },
+    {
+        "question": "How many mobile daily active Facebook users are there?",
+        "answer": "703 million mobile daily active users on average for September 2014"
+    },
+    {
+        "question": "How many monthly active Facebook users are there?",
+        "answer": "1.35 billion monthly active users as of September 30, 2014"
+    },
+    {
+        "question": "How many mobile monthly active Facebook users are there?",
+        "answer": "1.12 billion mobile monthly active users as of September 30, 2014"
+    },
+    {
+        "question": "How many monthly active Twitter users are there?",
+        "answer": "284 million monthly active users"
+    },
+    {
+        "question": "How many Tweets are sent per day?",
+        "answer": "500 million Tweets are sent per day"
+    },
+    {
+        "question": "How many active Twitter users are on mobile?",
+        "answer": "80% of Twitter active users are on mobile"
+    },
+    {
+        "question": "How many Vine users are there?",
+        "answer": "Over 40 million users"
+    }
+  ]
+}
