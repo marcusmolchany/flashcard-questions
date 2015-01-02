@@ -4,6 +4,10 @@ flashcard-questions
 
 Flashcards for computer science questions
 
+## Information for Flashcards
+* [Facebook Company Info](http://newsroom.fb.com/company-info/)
+* [Twitter Company Info](https://about.twitter.com/company)
+
 ## Requirements
 * npm
 * node
